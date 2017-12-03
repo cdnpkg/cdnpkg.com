@@ -6,3 +6,5 @@ This is the repository for https://www.cdnpkg.com . This project was started as 
 # What is CDNPKG ?
 
 To say it very simply: CDNPKG is like a search engine for web assets: css, js and other usefull resource for web developers. 
+
+For the why and the how, check it here: https://www.cdnpkg.com
